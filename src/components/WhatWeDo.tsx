@@ -9,7 +9,7 @@ export default function WhatWeDo() {
         </h2>
         <div className="max-w-4xl mx-auto bg-white p-12 rounded-3xl shadow-xl">
           <p className="text-gray-600 leading-relaxed mb-6">
-            ApexTechAI, işletmenizin müşteri iletişimini yapay zeka ile
+            Asistan360, işletmenizin müşteri iletişimini yapay zeka ile
             güçlendiren özel çözümler geliştirir. Hazır paket sunmayız, ajans
             gibi çalışmayız. Her sistem, sizin iş sürecinize, sektörünüze ve
             ihtiyaçlarınıza göre kurgulanır.

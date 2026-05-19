@@ -6,7 +6,7 @@ export default function Hero() {
           Kaçan Her Mesaj, Kaybolan Bir Fırsat.
         </h1>
         <p className="text-xl mb-8 max-w-4xl mx-auto animate-fade-in-up animation-delay-200">
-          ApexTechAI olarak işletmenizin müşteri iletişimini yapay zeka ile
+          Asistan360 olarak işletmenizin müşteri iletişimini yapay zeka ile
           otomatikleştiriyoruz. Geç yanıt yok, atlanmış lead yok, yorgun ekipler
           yok.
         </p>

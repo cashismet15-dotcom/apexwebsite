@@ -18,7 +18,7 @@ export default function TargetAudience() {
           Bu Sistemler Sizin İçin mi?
         </h2>
         <p className="text-center text-xl text-gray-600 mb-16 max-w-3xl mx-auto">
-          ApexTechAI'nin geliştirdiği otomasyonlar, müşteri iletişimi yoğun olan
+          Asistan360'ın geliştirdiği otomasyonlar, müşteri iletişimi yoğun olan
           ve her mesajın değerli olduğunu bilen işletmeler için tasarlandı.
         </p>
         <div className="max-w-4xl mx-auto">
